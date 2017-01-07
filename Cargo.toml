@@ -1,0 +1,11 @@
+[package]
+
+name = "discard_shoutcast"
+version = "0.0.1"
+authors = [ "Your name <you@example.com>" ]
+
+[dependencies]
+
+regex = "0.2"
+serde_json = "0.8"
+discord = "0.7.0"
